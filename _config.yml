@@ -9,7 +9,7 @@ baseurl: "/blog"
 description: #
 meta_description: #
 motto: Stay foolish, stay hungry.
-banner: Stay foolish, stay hungry.
+banner: #
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
