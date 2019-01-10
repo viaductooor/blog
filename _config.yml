@@ -5,7 +5,7 @@ author: 吴杰
 url: http://www.hifreud.com
 resume_site: https://viaductooor.github.io/blog
 github: https://github.com/viaductooor
-baseurl: "/blog"
+baseurl: /blog
 description: #
 meta_description: #
 motto: Stay foolish, stay hungry.
