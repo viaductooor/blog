@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Git Usage Summary
-categories: [git, note]
+categories: [git]
 tags: [git]
 ---
 
@@ -124,6 +124,7 @@ SSH是个协议，用于计算机之间的加密登录。Git中使用SSH主要�
 通常合并分支时，如果可能，Git会用Fast forward模式，但在这种模式下，删除分支后，会丢掉分支信息。**如果要强制禁止用fast forward，Git就会在merge时生成一个新的commit，这样，从分支历史上就可以看出分支信息。使用"--no-ff"参数来禁用fast forward：
 
     git merge --no-ff -m "merge with no-ff" dev
+    
 
 ## 删除分支
 ## 删除分支
