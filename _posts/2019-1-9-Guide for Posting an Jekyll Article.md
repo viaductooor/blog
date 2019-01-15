@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Guide for Posting an Jekyll Article
-categories: [jekyll, guide]
-tags: [post, jekyll]
+categories: [jekyll]
+tags: [guide, jekyll]
 ---
 
 * content

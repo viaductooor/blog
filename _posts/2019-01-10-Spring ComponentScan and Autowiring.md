@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spring ComponentScan and Autowiring
+title: Spring自动装配和组件扫描
 categories: [spring]
 tags: [spring]
 ---
