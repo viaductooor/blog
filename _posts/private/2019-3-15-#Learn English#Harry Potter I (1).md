@@ -1,7 +1,7 @@
 ---
 title: Wordlist - Harry Potter I (1)
 tags: [english]
-categories: [personal]
+categories: [private]
 layout: post
 ---
 
@@ -186,7 +186,7 @@ Charlie's friends were a cheery lot.
 
 adj，但是不用在名词前
 
-The girl is crackers. 这个女孩疯了。**
+The girl is crackers. 这个女孩疯了。
 
 
 

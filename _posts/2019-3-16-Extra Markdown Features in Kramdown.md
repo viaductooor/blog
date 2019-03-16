@@ -8,7 +8,7 @@ layout: post
 * catalog
 {:toc}
 
-ref: https://kramdown.gettalong.org/syntax.html
+ref: [https://kramdown.gettalong.org/syntax.html](https://kramdown.gettalong.org/syntax.html)
 
 # Footnotes
 
@@ -72,3 +72,36 @@ A simple paragraph with an ID attribute.
 * catalog
 {:toc}
 ```
+
+# Definition Lists
+
+Definition Lists 允许给一个术语（term）添加一个或多个定义（definition）一个简单的定义列表为：
+
+```
+kramdown
+: A Markdown-superset converter
+```
+
+冒号后面至少应该跟一个空格，紧接着是解释内容；冒号前面最多只能有三个空格；一个term可以有多个definition，如果definition前面有一个空行，则这个defination会形成单独的一个段落，否则只是一个句子跟在term后面。definition可以包含其他的block，只要缩进和前面的内容保持一致。
+
+```
+definition term
+: This definition will just be text because it would normally be a
+  paragraph and the there is no preceding blank line.
+
+  > although the definition contains other block-level elements
+
+: This definition *will* be a paragraph since it is preceded by a
+  blank line.
+```
+
+上面代码的显示效果为：
+
+definition term
+: This definition will just be text because it would normally be a
+  paragraph and the there is no preceding blank line.
+
+  > although the definition contains other block-level elements
+
+: This definition *will* be a paragraph since it is preceded by a
+  blank line.

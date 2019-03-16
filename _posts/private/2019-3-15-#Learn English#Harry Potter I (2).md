@@ -1,7 +1,7 @@
 ---
 title: Wordlist - Harry Potter I (2)
 tags: [english]
-categories: [personal]
+categories: [private]
 layout: post
 ---
 
@@ -36,11 +36,15 @@ Ron gritted his teeth and stepped carefully over the dog's legs.
 
 条纹；光线；个性特征，倾向；一连串
 
-- black with white streaks
-- a streak of lightening
-- The boy has a stuborn streak.
-- a streak of vanity
-- a streak of bad luck
+black with white streaks
+
+a streak of lightening
+
+The boy has a stuborn streak.
+
+a streak of vanity
+
+a streak of bad luck
 
 ## trolley
 
@@ -52,8 +56,9 @@ a shopping trolley
 
 怒吼
 
-- bellow at sb.
-- Firenze bellowed at Bane.
+bellow at sb.
+
+Firenze bellowed at Bane.
 
 ## crikey
 
@@ -87,8 +92,9 @@ She prodded him in the ribs to wake him up.
 
 ## stalagmite & stalactite
 
-- stalagmite: 石笋
-- stalactite: 钟乳石
+stalagmite: 石笋
+
+stalactite: 钟乳石
 
 ## slouch
 
@@ -100,8 +106,9 @@ Don't slouch! Stand up straight!
 
 碰撞；颠簸
 
-- the boat bumped gently into the harbour wall.
-- The jeep bumped along the gravel road.
+the boat bumped gently into the harbour wall.
+
+The jeep bumped along the gravel road.
 
 ## ledger
 
@@ -111,8 +118,9 @@ About a hundred more goblins were sitting on high stools behind a long counter, 
 
 ## patched & frayed
 
-- patch: 打补丁
-- fray: 磨损
+patch: 打补丁
+
+fray: 磨损
 
 This hat was patched and frayed and extremely dirty.
 
@@ -124,12 +132,17 @@ This hat was patched and frayed and extremely dirty.
 
 爬行，匍匐前进；缓慢（而费劲）地经过；起鸡皮疙瘩；爬满，挤满；巴结，奉承
 
-- She got her job by crawling to the chief engineer.
-- The strange sound made her skin crawl.
-- The kitchenwas crawling with ants.
-- A beatle is crawling along a leaf 
-- The car had to crawl along because of the snow.
-- The hours crawl by
+She got her job by crawling to the chief engineer.
+
+The strange sound made her skin crawl.
+
+The kitchenwas crawling with ants.
+
+A beatle is crawling along a leaf 
+
+The car had to crawl along because of the snow.
+
+The hours crawl by
 
 ## simmer
 
@@ -147,16 +160,19 @@ peeves
 
 搅拌；迅速移动；掸
 
-- (Morris) she'd whisk off for Filch
-- whisk egg whites
-- whisk the door open
-- whisk away the flies
+(Morris) she'd whisk off for Filch
+
+whisk egg whites
+
+whisk the door open
+
+whisk away the flies
 
 ## waffle
 
 华夫饼
 
-## quits
+## ★ quits
 
 adj，抵消的，对等的，不分胜负的
 
@@ -189,40 +205,4 @@ The cat's tail twitched and its eyes narrowed.
 泥铲
 
 They dropped their trowels at once and hurried through the grounds to the edge of the forest.
-
-## grind
-
-磨碎，磨块
-
-grind one's teeth
-
-## ★ centaur
-
-半人半马的怪物
-
-## rattle
-
-v. 使窘迫不安，是惊慌失措
-
-He was rattled.
-
-## silky
-
-温和的，轻柔的
-
-'Be that as it may, fighting is against Hogwarts rules, Hagrid.' said Snape silkily.
-
-## smudge
-
-污点，污迹
-
-You've got a smudge of earth on your face.
-
-## billow
-
-波浪般起伏；滚滚向前
-
-He had already changed into his billowing black Hogwarts robes.
-
-
 
