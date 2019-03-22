@@ -1,5 +1,5 @@
 ---
-title: Wordlist - Harry Potter I (3)
+title: Wordlist - Harry Potter I (3/4)
 tags: [english]
 categories: [private]
 layout: post
