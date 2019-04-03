@@ -51,3 +51,8 @@ var divStyle = {
 
 ReactDOM.render(<div style={divStyle}>Hello World!</div>, mountNode);
 ```
+
+# 逻辑与（&&）
+
+在Javascript中，`true && expression`等同于`expression`，而`false && expression`等同于`false`。
+

@@ -1,5 +1,5 @@
 ---
-title: Python 常用操作
+title: Python 代码段
 tags: [python]
 categories: [python, file]
 layout: post

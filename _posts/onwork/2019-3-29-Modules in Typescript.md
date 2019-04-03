@@ -83,3 +83,103 @@ import React,{Component} from 'react'
 
 # Namespaces
 
+> A note about terminology: It’s important to note that in TypeScript 1.5, the nomenclature has changed. “Internal modules” are now “namespaces”. “External modules” are now simply “modules”, as to align with ECMAScript 2015’s terminology, (namely that module X { is equivalent to the now-preferred namespace X {).
+
+
+
+在ECMAScript1.5之前，modules被区分成了external modules和internal modules；external modules也就是单独的文件，internal modules则是在一个文件内分隔命名空间（功能模块）的一个方案。之前声明internal modules的方方法是使用`module`关键字，现在改为使用`namespace`关键字。
+
+## Declare a namespace
+
+Namespace的声明方式有点类似接口或者类，只是里面的内容不同。namespace里面包含的是类、接口、变量等内容：
+
+```ts
+namespace Validation {
+    export interface StringValidator {
+        isAcceptable(s: string): boolean;
+    }
+
+    const lettersRegexp = /^[A-Za-z]+$/;
+    const numberRegexp = /^[0-9]+$/;
+
+    export class LettersOnlyValidator implements StringValidator {
+        isAcceptable(s: string) {
+            return lettersRegexp.test(s);
+        }
+    }
+
+    export class ZipCodeValidator implements StringValidator {
+        isAcceptable(s: string) {
+            return s.length === 5 && numberRegexp.test(s);
+        }
+    }
+}
+
+//调用方式是namespace_name.declaration_name
+let validators: { [s: string]: Validation.StringValidator; } = {};
+```
+
+namespace可以跨文件定义。也就是说，各个文件中的相同命名空间中的内容可以最后集中到一起，互相调用完成一些功能。为了告诉各个文件他们参考的namespace（而不是他们自己定义的namespace），需要添加reference标签来指向目标namespace所在的文件。
+
+*Validation.ts*
+
+```ts
+namespace Validation {
+    export interface StringValidator {
+        isAcceptable(s: string): boolean;
+    }
+}
+```
+
+*LettersOnlyValidator.ts*
+
+```ts
+/// <reference path="Validation.ts" />
+namespace Validation {
+    export class LettersOnlyValidator implements StringValidator {
+        //...
+    }
+}
+```
+
+*ZipCodeValidator.ts*
+
+```ts
+/// <reference path="Validation.ts" />
+namespace Validation {
+    export class ZipCodeValidator implements StringValidator {
+        //...
+    }
+}
+```
+
+*Test.ts*
+
+```ts
+/// <reference path="Validation.ts" />
+/// <reference path="LettersOnlyValidator.ts" />
+/// <reference path="ZipCodeValidator.ts" />
+
+let validators: { [s: string]: Validation.StringValidator; } = {};
+validators["ZIP code"] = new Validation.ZipCodeValidator();
+validators["Letters only"] = new Validation.LettersOnlyValidator();
+```
+
+## export as namespace
+
+`export as namespace L;`这句代码的意思是在全局作用域中创建一个变量`L`用于访问当前Module。比如可以在其他（该Module外）直接调用：
+
+```js
+L.func1();
+L.func2();
+```
+
+但是一般不会这样调用，为了避免污染全局作用域。使用一般的导入方式就可以了，比如：
+
+```js
+import * as L from 'the_module';
+L.func1();
+L.func2();
+```
+
+
