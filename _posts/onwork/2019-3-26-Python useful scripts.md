@@ -1,7 +1,7 @@
 ---
 title: Python 代码段
 tags: [python]
-categories: [python, file]
+categories: [python]
 layout: post
 ---
 

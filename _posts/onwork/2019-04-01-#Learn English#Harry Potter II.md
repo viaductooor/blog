@@ -1,5 +1,5 @@
 ---
-title: Wordlist - Harry Potter II (1)
+title: Wordlist - Harry Potter II
 tags: [english]
 categories: [private]
 layout: post
@@ -136,7 +136,7 @@ Mr Malfoy went even paler than usual, but his eyes were still **slits** of fury.
 
 'Well, you see, Lucius,' said Dumbledore, smiling **serenely**, 'the other eleven goveners contacted me today.'
 
-## abject， hem
+## abject, hem
 
 - abject: 绝望无助的
 - hem: 边缘
@@ -218,7 +218,7 @@ He gave a **hearty** wink and strode off.
 
 齐射，连发
 
-'Write home for another one,' Harry suggested, as the wand let off a **volley** of bangslike a firecracker.
+'Write home for another one,' Harry suggested, as the wand let off a **volley** of bangs like a firecracker.
 
 ## venomous
 
