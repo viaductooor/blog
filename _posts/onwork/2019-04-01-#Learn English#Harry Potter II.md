@@ -10,6 +10,12 @@ layout: post
 
 # Phrases
 
+## buck up
+
+振奋起来
+
+"Harry, **buck** up there, you need a decent breakfast."
+
 ## dung beetle
 
 屎壳郎
@@ -93,6 +99,12 @@ Trying to **draw level with** Asia in chipmaking would be futile（徒劳的）.
 拍打，掌击
 
 Hagrid turning up at half past three, **cuffing** Harry on the shoulder.
+
+## frail
+
+虚弱的，衰弱的
+
+A wizened, **frail-looking** wizard, bald except for a few wisps of white hair, was reading a letter by candlelight.
 
 ## wring
 
@@ -306,7 +318,7 @@ Dudley put on a **foul**, simpering smile.
 
 ## simper
 
-假笑
+傻笑
 
 He **simpered** his explanation.
 
@@ -335,6 +347,193 @@ Dudley **stumbled** backwards at once, a look of panic on his fat face.
 随意的，无计划的
 
 Mrs Weasley was clattering around, cooking breakfast a little **haphazardly**, throwing dirty looks at her sons as she threw sausages into the frying pan.
+
+## aghast
+
+吓呆的
+
+Hermione looked **aghast** at the news.
+
+## ★ tread
+
+行走于；踩踏，踩碎
+
+Harry walked over to the bed, open-mouthed, **treading** on a few loose pages of *Travels with Trolls*.
+
+## ★ implore
+
+恳求；乞求；哀求
+
+'I never,' said Hagrid, looking **imploringly** at Dumbledore, 'You know I never, Professor Dumbledore, sir...'
+
+## commotion 
+
+混乱；骚乱
+
+'What's all this **commotion**?'
+
+## irresolute
+
+犹豫不决的
+
+Harry stood, **irresolute**, trying to catch the voice again, but people were now emerging from the Great Hall behind him, talking loudly.
+
+## acne
+
+/'akni/
+
+粉刺，痤疮
+
+The moment their (Mandrake) **acne** clears up, they'll be ready for repotting (移栽) again.
+
+## ★ disperse
+
+驱散，疏散
+
+Percy Weasley did his best to **disperse** the crowd.
+
+## chuck
+
+抛，扔
+
+I don't know why you don't **chuck** it, Harry.
+
+## squid
+
+鱿鱼
+
+Maybe he got thirty O.W.Ls or saved a teacher from the giant **squid**.
+
+## surge
+
+汹涌，奔腾
+
+He put up her card with a fresh **surge** of guilt, thinking about Mr Weasley's car.
+
+## writhe
+
+/raithe/
+
+（因痛苦）打滚
+
+Immediately, his insides started **writhing** as though he'd just swallowed live snakes.
+
+## wrinkled
+
+起皱的
+
+Harry looked down in time to see a tiny, **wrinkled**, new-born bird poke its head out of the ashes.
+
+## tartan
+
+（苏格兰高地人的）格子呢
+
+There was thick **tartan** scarf bound around his head, and his nose was unusually purple.
+
+## blunt
+
+钝的，不锋利的
+
+Getting hit forty-five times in the neck with a **blunt** axe would qualify you to join the Headless Hunt.
+
+## lilac
+
+/'lailək/
+
+丁香花；淡紫色
+
+Harry gave a huge jump and a large **lilac** blot appeared on Veronica Smethley's letter.
+
+## whack
+
+重打，猛击
+
+Everyone filed out of the classroom except him and Ron, who was **whacking** his wand furiously on the  desk.
+
+## morale
+
+精神面貌，斗志
+
+You know, what the school needs now is a **morale-booster**.
+
+## trickle
+
+滴
+
+Thick, pearly tears were **trickling** down the glossy feathers.
+
+## derisive
+
+嘲笑的，嘲弄的
+
+He gave a short, **derisive** laugh.
+
+## shred
+
+些许，最少量（常用否定）
+
+There is not a **shred** of evidence that Slytherin ever built so much as a secret broom cupboard.
+
+## shatter
+
+使破碎，使粉碎
+
+Cream splattered the windows and walls as the dish **shattered**.
+
+## malevolent
+
+恶意的，恶毒
+
+A bad idea, Professor Lockhart,' said Snape, gliding overr like a large and **malevolent** bat.
+
+## scarper
+
+逃走，溜掉
+
+Ginny jumped up as though her chair had just been electrified, gave Percy a fleeting, frightened look, and **scarpered** away.
+
+## tamper
+
+篡改；贿赂
+
+'Someone's **tampered** with this Bludger,' Fred grunted, swinging his bat with all his might at it as it launched a new attack on Harry.
+
+## bait
+
+n. 诱饵
+
+v. 诱惑
+
+'Just **Muggle-baiting**,' sighed Mr Weasley.
+
+Worms make excellent fish **bait**.
+
+The open purse was a **bait** for the hungry young man.
+
+## undaunted
+
+顽强的，无畏的
+
+**Undaunted**, Hermione shoved her hand back into her bag and pulled out what appeared to be a bright red eraser.
+
+## abashed 
+
+难堪的，为难的，局促不安的
+
+... said Harry under his breath, pleased to see Draco looking both **abashed** and angry.
+
+## remnants 
+
+They had been in the changing room so long that the sun was up properly now, although **remnants** of mist hung over the grass in the stadium.
+
+
+
+
+
+
+
+
+
 
 
 
