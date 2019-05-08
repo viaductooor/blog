@@ -10,6 +10,12 @@ layout: post
 
 # Phrases
 
+## to the hilt
+
+完全地，彻底地
+
+Harry threw his whole weight behind the sword and drove it **to the hilt** into the roof of the serpent's mouth.
+
 ## buck up
 
 振奋起来
@@ -525,6 +531,87 @@ The open purse was a **bait** for the hungry young man.
 ## remnants 
 
 They had been in the changing room so long that the sun was up properly now, although **remnants** of mist hung over the grass in the stadium.
+
+## wheezy
+
+喘息的，吱吱响的
+
+'My subject is History of Magic,' he said in his dry, **wheezy** voice.
+
+## divination
+
+占卜术
+
+It's never too early to think about the future, so I'd recommend **Divination**.
+
+## vulture
+
+秃鹫
+
+Madam Pince, the librarian, was a thin, irritable woman who looked like an underfed **vulture**.
+
+## prop
+
+支撑；支持
+
+Harry and Ron sat down at the Gryffindor table next to Hermione, who had her copy of Voyages with Vampires **propped** open against a milk jug.
+
+## throb
+
+抽动，抽痛；跳动
+
+Steam was billowing from under the crumpled bonnet; Hedwig was shrieking in terror, a golf-ball-sized lump was **throbbing** on Harry's head where he had hit (the tree).
+
+## wary
+
+小心的，留神的，谨慎的
+
+He cast a **wary** eye around the sleeping witches and wizards on the walls.
+
+## plaque
+
+饰板，匾
+
+... a small **plaque** on it, saying 'Ronald's room'.
+
+## custard
+
+牛奶蛋糊
+
+Come, Severus, there's a delicious-looking **custard tart** I want to sample.
+
+## scalp
+
+头皮
+
+... it lifted the hair on Harry's **scalp** and made his heart feel as though it was swelling to twice its normal size.
+
+## tingle
+
+感到刺痛
+
+Every nerve in Harry's body was **tingling** unpleasantly.
+
+## dregs
+
+【用作复数】渣滓，糟粕
+
+the dregs of society
+
+If he knew what he means to us, to the lowly, the enslaved, us **dregs** of the magical world!
+
+## cub
+
+幼兽
+
+(Tom Riddle) parentless but so brave, school prefect, model student; on the other hand, big, **blundering** Hagrid, in trouble every other week, trying to raise werewolf **cubs**.
+
+## blundering
+
+笨拙的，愚蠢的
+
+
+
 
 
 
