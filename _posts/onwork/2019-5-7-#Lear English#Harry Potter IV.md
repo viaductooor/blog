@@ -10,7 +10,11 @@ layout: post
 
 # Phrases
 
-# Words
+## an assortment of
+
+各种各样的
+
+# ---
 
 ## contagious & germ
 
@@ -127,3 +131,163 @@ But the man who was leading them up to the castle was wearing furs of a differen
 油腻的，虚情假意的
 
 Karkaroff had a fruity, **unctuous** voice.
+
+# ---
+
+## crane
+
+crane one's neck 伸长脖子
+
+Like everyone else in the Hall, judging by the constantly **craning** necks, the impatient expressions on every face, ...
+
+## imminent
+
+迫近的，即将到来的
+
+The **imminent** arrival at their house of an assortment of wizards was making the Dursleys uptight and irritable.
+
+## crest
+
+（家族）饰章
+
+They were all wearing the same uniform; a tea-towel stamped with the Hogwarts **crest**...
+
+## interrogate
+
+审问，质问
+
+His voice, which had been so calm throughout the **interrogation** of Barty Crouch, shook very slightly for the first time.
+
+## lousy
+
+令人厌恶的，糟糕的
+
+You **lousy** biased scumbag, you gave Krum ten!
+
+## reverie
+
+幻想，遐想
+
+Mr Crouch seemed to come out of a deep **reverie**.
+
+## plastered
+
+用灰泥抹
+
+In Professor Lockhart's day, the walls had been **plastered** with beaming, winking pictures of Professor Lockhart himself.
+
+## lethal
+
+致命的
+
+Hagrid simply loved monstrous creatures -- the more **lethal**, the better.
+
+## antenna
+
+触须
+
+Look very closely, and you'll notice the markings around her **antennae** are exactly like those foul glasses she wears.
+
+## harness
+
+缰绳
+
+Harry could see Hagrid helping Madame Maxime to back two of the giant horses into their **harness**.
+
+## enmity
+
+敌意，仇恨
+
+Lord Voldemort's gift for spreading discord and **enmity** is very great.
+
+## paranoid
+
+偏执的，多疑的
+
+'Talk about **paranoid** ...' Ron glanced nervously over his shoulder to check that Moody was definitely out of earshot, and went on, ...
+
+## appal
+
+使惊吓
+
+They were mouthing soundlessly at Dumbledore, apparently too **appalled** to speak.
+
+## crude
+
+粗糙的，天然的，未加工的
+
+a cluster of **crude** stones
+
+## benign
+
+善良的，温和的；良性的
+
+**benign** tumour
+
+There was no **benign** smile upon Dumbledore's face, no twinkle in the eyes behind the spectacles.
+
+## secretion
+
+分泌物
+
+He could see some sort of thick, gluey **secretion** from the spider's pincers on his tore robes.
+
+## riddle
+
+谜语
+
+Not unless you can answer my **riddle**.
+
+## foe
+
+敌人
+
+But the blood of a **foe** ... Wormtail would have had me use any wizard, would you not, Wormtail?
+
+## prompt
+
+迅速的，立刻的
+
+I see you all, whole and healthy, with your powers **intact** - such **prompt** appearances! - and I ask myself ... why did this band of wizards never come to (find me when I was faintest?)
+
+## intact
+
+完整的
+
+## headstone
+
+墓碑
+
+It stopped beside a towering marble **headstone** only six feet from them.
+
+# ---
+
+## immortality
+
+不朽
+
+What I was, even I do not know ... I, who have gone further than anybody along the path that leads to **immortality**.
+
+## affinity
+
+喜爱
+
+Wormtail has a curious **affinity** with rats, do you not, Wormtail?
+
+## wasp
+
+黄蜂
+
+'Good training for when we're all Aurors,' said Ron excitedly, attempting the impedient Jinx on a **wasp** that had buzzed into the room.
+
+## sear
+
+灼烧
+
+Wormtail screamed, screamed as though every nerve in his body was on fire, the screaming filled Harry's ears as the scar on his forehead **seared** with pain.
+
+
+
+
+
+
