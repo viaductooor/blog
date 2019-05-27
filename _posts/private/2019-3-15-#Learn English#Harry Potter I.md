@@ -105,6 +105,8 @@ v. 厄运，使倒霉
 
 "He's doing something - jinxing the broom," said Hermione.
 
+# ---
+
 ## trip
 
 - trip: 绊倒
@@ -281,6 +283,8 @@ stalactite: 钟乳石
 没精打采地走
 
 Don't slouch! Stand up straight!
+
+# ---
 
 ## bump 
 
@@ -472,6 +476,8 @@ Ron had taken out a lumpy package and unwrapped it. There were four sandwiches i
 弯曲的，歪的
 
 (Dumbledore) He wore half-moon glasses, had a long crooked nose and flowing silver hair.
+
+# ---
 
 ## alchemy
 
