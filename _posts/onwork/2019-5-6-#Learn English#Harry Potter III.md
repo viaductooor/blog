@@ -118,6 +118,9 @@ He pointed at Black, whose face twitched **convulsively**.
 
 Slowly, in a kind of horrified **trance**, Harry, Ron and Hermione set off silently around Hagrid's house.
 
+# ---
+
+
 
 
 
