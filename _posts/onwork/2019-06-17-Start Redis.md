@@ -10,15 +10,17 @@ layout: post
 
 # Tutorial
 
-Tutorial是 <try.redis.io> 中入门内容的总结。
+Tutorial是 [try.redis.io](try.redis.io) 中入门内容的总结。
 
 ## 开始
 
 Redis使用“键值对”存储数据。Redis中的命令大小写皆可。
 
+Redis中的String类型数据可以不加双引号。
+
 使用`SET key value`存储值，使用`GET key`取值。
 
-```redis
+```shell
 > SET server:name "fido"
 OK
 > GET server:name
@@ -34,7 +36,7 @@ DEL|删除这个键
 
 使用INCR命令实现自增，而不使用传统的“取值->加一->设定值”，原因是这样可以保证这一操作的原子性，避免多线程读写数据可能会发生的冲突。
 
-```redis
+```shell
 > GET newkey
 (nil)
 > INCR newkey
@@ -43,7 +45,7 @@ DEL|删除这个键
 
 Redis中的数据（键值对）可以通过`EXPIRE`设置有效时间和用`TTL`查看剩余时间（单位是秒）。
 
-```redis
+```shell
 > SET resource:lock "demo" 
 OK
 > EXPIRE resource:lock 120
@@ -71,7 +73,7 @@ RPOP|获取最后一个元素并将其从列表中删除
 - 如果之前没有这个键，也是可以直接push的
 - 不能通过`GET`操作来获取所有的元素，只能用`LRANGE key 0 -1`
 
-```
+```shell
 > RPUSH students "Alice"
 (integer) 1
 > RPUSH students "Bob"
@@ -101,7 +103,7 @@ SISMEMBER|查询集合是否包含某元素
 SMEMBERS|查看集合中的所有元素
 SUNION|求两个集合的并集
 
-```redis
+```shell
 > SADD fruits "apple"
 (integer) 1
 > SADD fruits "pear"
@@ -121,7 +123,7 @@ Redis中的无序集合可能存在一些问题，所以从1.2版本之后引入
 
 使用`ZRANGE key begin_index end_index`可以查看key对应的集合中第begin_index到第end_index的元素。
 
-```redis
+```shell
 > ZADD scores 89 "math"
 (integer) 1
 > ZADD scores 100 "nature"
@@ -141,8 +143,6 @@ Redis中的无序集合可能存在一些问题，所以从1.2版本之后引入
 
 Redis同样支持哈希数据结构（Hashes）作为值。类似于javascript中的对象类型（或者JSON），哈希结构包含多个键值对，非常适合用于存储对象。
 
-哈希对象的键可以不加双引号，值要加双引号。
-
 哈希结构相关的操作有：
 
 命令|含义
@@ -154,7 +154,7 @@ HGET|获取一个哈希对象的某一个属性
 HINCRBY|将某一个值增加一个量
 HDEL|删除这个对象的某一个属性
 
-```redis
+```shell
 > HSET mycomputer memory "16GB"
 (integer) 1
 > HSET mycomputer graphic-card "Nvidia"
