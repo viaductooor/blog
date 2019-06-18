@@ -174,7 +174,7 @@ HDEL|删除这个对象的某一个属性
 
 ## 更多
 
-Tutorial of Redis到此为止，更多内容参考：
+更多内容参考：
 
 - [Redis Documentation](http://redis.io/documentation)
 - [Command Reference](http://redis.io/commands)
