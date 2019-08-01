@@ -703,7 +703,7 @@ Java运行时，会根据类的**完全限定名**寻找并加载类，寻找的
 - 扩展类加载器（Extension ClassLoader）：负责加载扩展类，一般是位于JAVA_HOME/lib/ext中的jar包；
 - 应用程序类加载器（Application ClassLoader）：负责加载应程序的类，包括自己写的和引入的第三方类库，即所有在类路径中指定的类。
 
-双亲委派模型
+**双亲委派模型**
 
 加载一个类的过程为：
 
@@ -711,7 +711,7 @@ Java运行时，会根据类的**完全限定名**寻找并加载类，寻找的
 2. 如果没有被加载，先让父ClassLoader去加载，如果加载成功，返回得到的Class对象；
 3. 在父ClassLoader没有加载成功的前提下，自己尝试加载类
 
-双亲委派          模型的好处是：避免Java类库被覆盖的问题。如果用户也定义了一个类java.lang.String，通过双亲委派，java.lang.String只会被Bootstrap ClassLoader加载，避免自定义的String覆盖Java类库中的定义。
+双亲委派模型的好处是：避免Java类库被覆盖的问题。如果用户也定义了一个类java.lang.String，通过双亲委派，java.lang.String只会被Bootstrap ClassLoader加载，避免自定义的String覆盖Java类库中的定义。
 
 ### 24.2 ClassLoader和forName加载类的区别
 
